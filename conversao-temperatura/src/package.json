@@ -6,16 +6,11 @@
   "scripts": {
     "test": "mocha"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KubeDev/conversao-temperatura.git"
+  "engines": {
+    "node": "v20"
   },
-  "author": "",
+  "author": "Yves Guilherme",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/KubeDev/conversao-temperatura/issues"
-  },
-  "homepage": "https://github.com/KubeDev/conversao-temperatura#readme",
   "dependencies": {
     "chai": "^4.3.6",
     "ejs": "^3.1.8",
